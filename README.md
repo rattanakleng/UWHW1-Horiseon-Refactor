@@ -1,3 +1,10 @@
+## HTML and CSS code refactoring.
+
+The html and css file in this project is refactored and consolidated to make a cleaner code, improve semantic, and tag clear title content.
+Html file with good semantic code helps improve the accessibility to ensure disabilities people can access the website with assistive technologies. When people with disabilities cannot access a website, the ligal issue may occure to a company. It is more and more importaint for a website to complied with the ADA standard.
+
+Making a website accessible is important for business because it provide better user experience for all user.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rattanakleng/UWHW1-Horiseon-Refactor/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -12,7 +19,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
